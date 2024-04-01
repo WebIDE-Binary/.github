@@ -20,7 +20,7 @@
 | ------ | :----: | :---------------: | ----------------------------- |
 | 김주희 |   BE   | 팀원 |    https://github.com/Jjuhui313     |
 | 박가빈 |   BE   | 팀원 | https://github.com/Bineer0826 |
-| 이신영 |   BE   | 팀원 | https://github.com/Lee-Siny |
+| 이신영 |   BE   | 팀장 | https://github.com/Lee-Siny |
 | 정시온 |   BE   | 팀원 | https://github.com/siontext |
 
 <br>
